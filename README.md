@@ -4,7 +4,7 @@ This code allows you to calculate the accessibility of urban greenspaces by chil
 
 This code is developed for three cities in The Netherlands (i.e., Amsterdam, Rotterdam, and The Hague) and can be adapted to fit other geographical contexts. 
 
-## Using GreenspaceAccessibility?
+### Using GreenspaceAccessibility?
 
 If you use GreenspaceAccessibility in your work, please cite the journal article.
 
