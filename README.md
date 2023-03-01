@@ -2,7 +2,7 @@
 
 This code allows you to calculate the accessibility of urban greenspaces by children and adolescents. It calculates accessibility not only to home locations, but also to educational facilities (e.g., schools, colleges, and university buildings), and during the commute in between them.
 
-This code is developed for three cities in The Netherlands(i.e., Amsterdam, Rotterdam, and The Hague) and can be adapted to fit other geographical contexts. 
+This code is developed for three cities in The Netherlands (i.e., Amsterdam, Rotterdam, and The Hague) and can be adapted to fit other geographical contexts. 
 
 ## Using GreenspaceAccessibility?
 
