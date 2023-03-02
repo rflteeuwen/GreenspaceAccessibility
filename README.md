@@ -1,10 +1,8 @@
 # GreenspaceAccessibility
 
-This code allows you to calculate the accessibility of urban greenspaces by children and adolescents. It calculates accessibility not only to home locations, but also to educational facilities (e.g., schools, colleges, and university buildings), and during the commute in between them.
+Notebooks 1-9 in this repository allow you to calculate the accessibility of urban greenspaces by children and adolescents. It calculates accessibility not only to home locations, but also to educational facilities (e.g., schools, colleges, and university buildings), and during the commute in between them. This code is developed for three cities in The Netherlands (i.e., Amsterdam, Rotterdam, and The Hague) and can be adapted to fit other geographical contexts. 
 
-This code is developed for three cities in The Netherlands (i.e., Amsterdam, Rotterdam, and The Hague) and can be adapted to fit other geographical contexts. 
-
-Additional materials: code to generate pedestrian walksheds around greenspaces, code to compare effects of different greenspace accessibility measures, and code to generate commuting heatmaps for cohort data. 
+Additional examples: Notebooks to generate pedestrian walksheds around greenspaces; to compare effects of different greenspace accessibility measures; and to generate commuting heatmaps for cohort data. 
 
 <p align="center">
     <img src="https://github.com/rflteeuwen/GreenspaceAccessibility/blob/main/figures/three_accessibility_measures.png" width="50%">
