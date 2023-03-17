@@ -5,7 +5,7 @@ Notebooks 1-9 in this repository allow you to calculate the accessibility of urb
 Additional examples: Notebooks to generate pedestrian walksheds around greenspaces; to compare effects of different greenspace accessibility measures; and to generate commuting heatmaps for cohort data. 
 
 <p align="center">
-    <img src="https://github.com/rflteeuwen/GreenspaceAccessibility/blob/main/figures/three_accessibility_measures.png" width="50%">
+    <img src="https://github.com/rflteeuwen/GreenspaceAccessibility/blob/main/figures/three_accessibility_measures.png" width="70%">
 </p>
 
 ### Using GreenspaceAccessibility?
