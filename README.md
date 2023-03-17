@@ -15,6 +15,8 @@ If you use GreenspaceAccessibility in your work, please cite the journal article
 **Citation info:** Roos Teeuwen, Achilleas Psyllidis, Alessandro Bozzon. Measuring children's and adolescents' accessibility to greenspaces from different locations and commuting settings. Computers, Environment and Urban Systems. Volume 100, 2023,
 101912, ISSN 0198-9715, https://doi.org/10.1016/j.compenvurbsys.2022.101912.
 
+Associated input and output datasets are available at https://doi.org/10.4121/22293421.
+
 <p align="center">
     <img src="https://github.com/rflteeuwen/GreenspaceAccessibility/blob/main/figures/indicative_examples.jpg" width="50%">
 </p>
