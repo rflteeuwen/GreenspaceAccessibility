@@ -1,8 +1,12 @@
 # GreenspaceAccessibility
 
-This code allows you to calculate the accessibility of urban greenspaces by children and adolescents. It calculates accessibility not only to home locations, but also to educational facilities (e.g., schools, colleges, and university buildings), and during the commute in between them.
+Notebooks 1-9 in this repository allow you to calculate the accessibility of urban greenspaces by children and adolescents. It calculates accessibility not only to home locations, but also to educational facilities (e.g., schools, colleges, and university buildings), and during the commute in between them. This code is developed for three cities in The Netherlands (i.e., Amsterdam, Rotterdam, and The Hague) and can be adapted to fit other geographical contexts. 
 
-This code is developed for three cities in The Netherlands (i.e., Amsterdam, Rotterdam, and The Hague) and can be adapted to fit other geographical contexts. 
+Additional examples: Notebooks to generate pedestrian walksheds around greenspaces; to compare effects of different greenspace accessibility measures; and to generate commuting heatmaps for cohort data. 
+
+<p align="center">
+    <img src="https://github.com/rflteeuwen/GreenspaceAccessibility/blob/main/figures/three_accessibility_measures.png" width="50%">
+</p>
 
 ### Using GreenspaceAccessibility?
 
@@ -12,7 +16,7 @@ If you use GreenspaceAccessibility in your work, please cite the journal article
 101912, ISSN 0198-9715, https://doi.org/10.1016/j.compenvurbsys.2022.101912.
 
 <p align="center">
-    <img src="https://github.com/rflteeuwen/GreenspaceAccessibility/blob/main/figures/readme.jpg" width="50%">
+    <img src="https://github.com/rflteeuwen/GreenspaceAccessibility/blob/main/figures/indicative_examples.jpg" width="50%">
 </p>
 
 **Abstract:** Recent evidence underscores the importance of greenspace exposure in promoting physical activity, and in having a positive impact on mental health and cognitive development. Accessibility has been identified to be the primary motivating factor when it comes to encouraging greenspace use and, correspondingly, exposure. Existing quantitative approaches to measuring greenspace accessibility predominantly focus on the areas surrounding home locations, often disregarding access from other settings such as schools or workplaces, exposures while on the move, and mobility differences among different population age groups. This article introduces a novel method to measure greenspace accessibility that considers access from different activity settings (i.e., homes, schools, and the commutes between them) for children and adolescents, while accounting for the dependency of human access on the road network. We use Amsterdam, Rotterdam, and The Hague in the Netherlands as case studies to illustrate the utility of our method. Compared to conventional measures of greenspace accessibility, we show that accounting for school and commuting settings, in addition to residences, captures previously untapped accessibility aspects for both children and adolescents. Our approach can be replicated in other cities worldwide, with the aspiration to provide planners and public health policy-makers with a methodological tool that can help in evaluating access and use of greenspaces when designing health-promoting interventions.
